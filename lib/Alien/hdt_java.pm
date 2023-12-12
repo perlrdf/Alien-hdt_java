@@ -9,7 +9,7 @@ use 5.008004;
 
 =head1 NAME
 
-Alien::hdt_java - Find or build hdt-java
+Alien::hdt_java - Find or build hdt-java (RDF binary format library)
 
 =head1 SYNOPSIS
 
@@ -32,6 +32,10 @@ for the use of other modules.
 =head1 SEE ALSO
 
 =over 4
+
+=item L<https://www.rdfhdt.org/>
+
+RDF HDT homepage
 
 =item L<Alien>
 
